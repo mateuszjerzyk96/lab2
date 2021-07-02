@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">labo2</string>
+    <string name="moj_tekst">¡Hola Mundo!</string>
+    <string name="text1">esta es la segunda aplicación</string>
+    <string name="text2">aprendemos cómo funcionan los controles</string>
+    <string name="text3">también aprendemos opciones de idioma</string>
+    <string name="text4">Android es super</string>
+    <string name="text5">si funciona :)</string>
+</resources>

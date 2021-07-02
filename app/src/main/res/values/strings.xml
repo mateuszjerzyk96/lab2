@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="moj_tekst">Hello World!</string>
+    <string name="text1">this is the second application</string>
+    <string name="text2">we learn how the controls work</string>
+    <string name="text3">we also learn language options</string>
+    <string name="text4">android is great</string>
+    <string name="text5">if it works :)</string>
+</resources>
